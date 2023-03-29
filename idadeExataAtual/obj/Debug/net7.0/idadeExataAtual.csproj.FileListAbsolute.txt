@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\bin\Debug\net7.0\idadeExataAtual.exe
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\bin\Debug\net7.0\idadeExataAtual.deps.json
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\bin\Debug\net7.0\idadeExataAtual.runtimeconfig.json
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\bin\Debug\net7.0\idadeExataAtual.dll
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\bin\Debug\net7.0\idadeExataAtual.pdb
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\idadeExataAtual.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\idadeExataAtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\idadeExataAtual.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\idadeExataAtual.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\idadeExataAtual.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\idadeExataAtual.dll
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\refint\idadeExataAtual.dll
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\idadeExataAtual.pdb
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\idadeExataAtual.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\idade-de-um-cidadao\idadeExataAtual\obj\Debug\net7.0\ref\idadeExataAtual.dll
